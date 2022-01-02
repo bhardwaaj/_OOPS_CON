@@ -1,0 +1,9 @@
+In normal terms Encapsulation is defined as wrapping up of data and information under a single unit. 
+In Object Oriented Programming, Encapsulation is defined as binding together the data and the functions that manipulates them.
+
+The process of implementing encapsulation can be sub-divided into two steps:
+
+The data members should be labeled as private using the private access specifiers
+The member function which manipulates the data members should be labeled as public using the public access specifier
+
+Ref link :- https://www.geeksforgeeks.org/encapsulation-in-c/
